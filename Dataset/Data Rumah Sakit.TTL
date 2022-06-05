@@ -1,0 +1,224 @@
+@prefix ab: <http://learningsparql.com/ns/addressbook#> .
+@prefix d:  <http://learningsparql.com/ns/data#> .
+@prefix media: <https://www.ldf.fi/service/rdf-grapher> .
+
+#Rumah Sakit
+d:001
+    ab:nama         "Hermina Daan Mogot" ;
+    ab:alamat       "Jl.Kintamani Raya No. 2" ;
+    ab:notelp       "0215408989" ;
+    ab:email        "daanmogot@herminahospitalgroup.com" ;
+    ab:wilayah      "Jakarta Barat" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS" ;
+    ab:pasien       "1258" ;
+    .
+
+d:002
+    ab:nama         "Medika Permata Hijau" ;
+    ab:alamat       "Jl. Raya Kebayoran Lama No. 64" ;
+    ab:notelp       "0215305288" ;
+    ab:email        "mph-mkt@rad.net.id" ;
+    ab:wilayah      "Jakarta Barat" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "Non BPJS" ;
+    ab:pasien       "784" ;
+    .
+
+d:003
+    ab:nama         "Siloam Kebon Jeruk" ;
+    ab:alamat       "Jl. Raya Pejuangan Kav. 8" ;
+    ab:notelp       "0215300887" ;
+    ab:email        "corporate.secretary@siloamhospitals.com" ;
+    ab:wilayah      "Jakarta Barat" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS IGD" ;
+    ab:pasien       "1168" ;
+    .
+
+d:004
+    ab:nama         "Pertamina Jaya" ;
+    ab:alamat       "Jl. Achmad Yani No. 2, By Pass" ;
+    ab:notelp       "0214211913" ;
+    ab:email        "rspj@yahoo.com" ;
+    ab:wilayah      "Jakarta Pusat" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS" ;
+    ab:pasien       "1385" ;
+    .
+
+d:005
+    ab:nama         "Islam Jakarta" ;
+    ab:alamat       "Jl. Cempaka Putih Tengah I / 1" ;
+    ab:notelp       "02142801567" ;
+    ab:email        "rsijpusat@rsi.co.id" ;
+    ab:wilayah      "Jakarta Pusat" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS" ;
+    ab:pasien       "1377" ;
+    .
+
+d:006
+    ab:nama         "Dr. Cipto Mangunkusumo" ;
+    ab:alamat       "Jl. Diponegoro No. 71" ;
+    ab:notelp       "021391830113" ;
+    ab:email        "info@rscm.co.id" ;
+    ab:wilayah      "Jakarta Pusat" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS" ;
+    ab:pasien       "1498" ;
+    .
+
+d:007
+    ab:nama         "Hermina Podomoro" ;
+    ab:alamat       "Jl. Danau Agung 2 Blok E 3 No. 28-30" ;
+    ab:notelp       "0216404910" ;
+    ab:email        "podomoro@herminahospitalgroup.com" ;
+    ab:wilayah      "Jakarta Utara" ;
+    ab:jenis        "Rumah Sakit Ibu dan Anak" ;
+    ab:ket          "BPJS" ;
+    ab:pasien       "1263" ;
+    .
+
+d:008
+    ab:nama         "Puri Medika" ;
+    ab:alamat       "Jl. Sungai Bambu  No. 5" ;
+    ab:notelp       "02143903355" ;
+    ab:email        "purmed-medcen@centrin.net.id" ;
+    ab:wilayah      "Jakarta Utara" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "Non BPJS" ;
+    ab:pasien       "893" ;
+    .
+
+d:009
+    ab:nama         "Royal Progress" ;
+    ab:alamat       "Jl. Danau Sunter Utara Raya No. 1" ;
+    ab:notelp       "021 6459877" ;
+    ab:email        "cs@royalprogress.com" ;
+    ab:wilayah      "Jakarta Utara" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS" ;
+    ab:pasien       "1369" ;
+    .
+
+d:010
+    ab:nama         "Pondok Indah Jakarta Selatan" ;
+    ab:alamat       "Jl. Metro Duta Kav. UE,  Pondok Indah" ;
+    ab:notelp       "0217657525" ;
+    ab:email        "rspi@rspondokindah.co.id" ;
+    ab:wilayah      "Jakarta Selatan" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS IGD" ;
+    ab:pasien       "1434" ;
+    .
+
+d:011
+    ab:nama         "Mayapada" ;
+    ab:alamat       "Jl. Lebak Bulus 1" ;
+    ab:notelp       "02129217777" ;
+    ab:email        "customercare.mht@mayapadahospital.com" ;
+    ab:wilayah      "Jakarta Selatan" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS IGD" ;
+    ab:pasien       "1375" ;
+    .
+
+d:012
+    ab:nama         "Fatmawati" ;
+    ab:alamat       "Jl. RS. Fatmawati" ;
+    ab:notelp       "0217660552" ;
+    ab:email        "rsupf@cbn.net.id" ;
+    ab:wilayah      "Jakarta Selatan" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS" ;
+    ab:pasien       "1178" ;
+    .
+
+d:013
+    ab:nama         "Premier Jatinegara" ;
+    ab:alamat       "Jl. Raya Jatinegara Timur No. 85 - 87" ;
+    ab:notelp       "0212800666" ;
+    ab:email        "rspremier.jatinegara@ramsayhealth.co.id" ;
+    ab:wilayah      "Jakarta Timur" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS IGD" ;
+    ab:pasien       "1322" ;
+    .
+
+d:014
+    ab:nama         "Haji Jakarta" ;
+    ab:alamat       "Jl. Raya Pondok Gede No. 4" ;
+    ab:notelp       "0218000693" ;
+    ab:email        "info@rshaji-jakarta.com" ;
+    ab:wilayah      "Jakarta Timur" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS" ;
+    ab:pasien       "1257" ;
+    .
+
+d:015
+    ab:nama         "Resti Mulya" ;
+    ab:alamat       "Jl. Pahlawan Komarudin Raya No. 5" ;
+    ab:notelp       "0214802192" ;
+    ab:email        "rsia_resti_mulya@ymail.com" ;
+    ab:wilayah      "Jakarta Timur" ;
+    ab:jenis        "Rumah Sakit Ibu dan Anak" ;
+    ab:ket          "Non BPJS" ;
+    ab:pasien       "1002" ;
+    .
+
+d:016
+    ab:nama         "Dharmais" ;
+    ab:alamat       "Jl. Letjen S. Parman Kav. 84-86" ;
+    ab:notelp       "0215681570" ;
+    ab:email        "dharmais@dharmais.co.id" ;
+    ab:wilayah      "Jakarta Barat" ;
+    ab:jenis        "Rumah Sakit Khusus Kanker" ;
+    ab:ket          "BPJS" ;
+    ab:pasien       "1556" ;
+    .
+
+d:017
+    ab:nama         "Siloam Kebon Jeruk" ;
+    ab:alamat       "Jl. Perjuangan Raya Kav.8" ;
+    ab:notelp       "0215300888" ;
+    ab:email        "rspj@yahoo.com" ;
+    ab:wilayah      "Jakarta Barat" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "BPJS CoB" ;
+    ab:pasien       "1119" ;
+    .
+
+d:018
+    ab:nama         "Bunda Jakarta" ;
+    ab:alamat       "Jl. Teuku Cik Ditiro No. 28" ;
+    ab:notelp       "0213909692" ;
+    ab:email        "rspj@yahoo.com" ;
+    ab:wilayah      "Jakarta Pusat" ;
+    ab:jenis        "Rumah Sakit Ibu dan Anak" ;
+    ab:ket          "BPJS IGD" ;
+    ab:pasien       "1329" ;
+    .
+
+d:019
+    ab:nama         "Satya Negara" ;
+    ab:alamat       "Jl. Agung Utara Raya Blok A No. 1" ;
+    ab:notelp       "02165836583" ;
+    ab:email        "rssn@cbn.net.id" ;
+    ab:wilayah      "Jakarta Utara" ;
+    ab:jenis        "Rumah Sakit Umum" ;
+    ab:ket          "Non BPJS" ;
+    ab:pasien       "987" ;
+    .
+
+d:020
+    ab:nama         "Islam Klender Jakarta" ;
+    ab:alamat       "Jl. Bunga Rampai X - Perumnas Klender" ;
+    ab:notelp       "02186602402" ;
+    ab:email        "rsjiwaislam@yahoo.co.id" ;
+    ab:wilayah      "Jakarta Timur" ;
+    ab:jenis        "Rumah Sakit Khusus Jiwa" ;
+    ab:ket          "Non BPJS" ;
+    ab:pasien       "1012" ;
+    .
